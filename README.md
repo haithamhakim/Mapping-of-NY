@@ -9,3 +9,5 @@ In case it is desired to show the map with the directions between two points, th
 
 Example files of UofR mapping coordinates and NY state can be found for testing the code. 
 
+<img src="Images/giphy.gif">
+
